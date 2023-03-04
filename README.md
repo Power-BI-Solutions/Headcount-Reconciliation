@@ -8,7 +8,8 @@ The data for each month closed (snapshot of last day of month) is provided as an
 
 ### Set Up
 
-To simplify data extraction, we set up a folder for already mentioned Excel documents we receive regularly.
+To simplify data extraction, we set up a folder for already mentioned Excel documents. We load data from folder to Power BI by following those steps:
+
 
 
 

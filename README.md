@@ -6,7 +6,7 @@ The data for each month closed (snapshot of last day of month) is provided as an
 <br><br/>
 
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/headcount.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/headcount.png" align = "center"/>
 </p>
 <br><br/>
 
@@ -20,7 +20,7 @@ To start the process of combining files from the same folder follow these steps:
 - select Connect
 
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/folder_load.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/folder_load.png" align = "center"/>
 </p>
 <br><br/>
 
@@ -30,7 +30,7 @@ A new window called Folder will pop out:
 - select OK
 - choose Transform data to see the folder's files in Power Query Editor
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/path.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/path.png" align = "center"/>
 </p>
 <br><br/>
 
@@ -89,14 +89,14 @@ Suppose that we have created all the measures required for this project. We just
 Suppose that we have created our reconciliation table and month filter. Let's format changes! 
 - click on table visual so you can see column manes within Visualisations panel
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/columns.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/columns.png" align = "center"/>
 </p>
 <br><br/>
 
 - within Visualisations Columns select the one you wish to format (I have selected Name)
 - click on dropdonw arrow > Conditional formatting > Background color
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/back_format.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/back_format.png" align = "center"/>
 </p>
 <br><br/>
 
@@ -106,7 +106,7 @@ Suppose that we have created our reconciliation table and month filter. Let's fo
 - seect What field should we base this on? > Match Name (flag)
 - set your format rule and background on
 <p align="center">
-<img width="750em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/back_color.png" align = "center"/>
+<img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/back_color.png" align = "center"/>
 </p>
 <br><br/>
 

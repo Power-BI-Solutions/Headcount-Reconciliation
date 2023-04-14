@@ -32,6 +32,8 @@ A new window called Folder will pop out:
 <p align="center">
 <img width="850em" src="https://github.com/Power-BI-Solutions/Headcount-Reconciliation/blob/main/image/path.png" align = "center"/>
 </p>
+
+
 <br><br/>
 
 Once we are in Power Query Editor we can work with data, clean it and check data model.
@@ -113,4 +115,6 @@ Suppose that we have created our reconciliation table and month filter. Let's fo
 Now we just need to repeat formatting step above for all columns we wish to be highlighted if change occurs.
 
 We usually have more data when it comes to employees, we can use the rest of the data to create insighthfull dashboards as an addtion to reconciliation demonstrated in this project. 
+<br><br/>
 
+Author: @MBohunickaCharles
